@@ -7,5 +7,5 @@
   <img width="99%" alt="Screenshot2" src="https://github.com/user-attachments/assets/cfa9a61c-5e1b-45a4-939a-a1eeab6f1610" />
 </div>
 
-# 
-
+# General MVVM Architecture Diagram:
+<img width="100%" alt="MVVM_Architecture_Diagram" src="https://github.com/user-attachments/assets/20a46809-bec2-44a3-bd26-e4dc76f46be6" />
